@@ -16,5 +16,5 @@ För att kunna klona detta repository ska man:
 Det kan ändå vara krångligt att hitta. Om man bara gör enligt ovan så hamnar den klonade repository per default i en folder med samma namn (i detta fall laboration-3). I sådana fall kan man:
 * Repetera steg 1-3 utan att trycka enter.
 * Tryck ett mellanslag och fyll i addressen till den mapp du vill spara den klonade repository.
- * Det kan exempelvis se ut såhär: git clone https://github.com/Kiim94/laboration-3.git C:\Users\DinAnvändare\OneDrive\Skrivbord\test-mapp
+  * Det kan exempelvis se ut såhär: git clone https://github.com/Kiim94/laboration-3.git C:\Users\DinAnvändare\OneDrive\Skrivbord\test-mapp
 * Tryck enter, och nu bör det gå att hitta klonen i din specificerade mapp!
