@@ -9,7 +9,7 @@ Därefter ska jag kunna redovia hur någon annan ska kunna klona detta repositor
 
 För att kunna klona detta repository ska man:  
 1. Först installera Git på datorn
-2. Hitta Git CMD (ett mörkt fönster öppnas där det endast står något i stil med "C:\Users\dittnamn"
+2. Hitta Git CMD (ett mörkt fönster öppnas där det endast står något i stil med "C:\Users\dittnamn")
 3. I detta fönster skriver du in kommandot "**git clone**" samt länken till denna repository, som i det här fallet är "**https://github.com/Kiim94/laboration-3.git**". Tryck enter
 4. Nu har detta klonats till din dator och du kan börja använda den!
 
