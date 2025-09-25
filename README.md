@@ -7,5 +7,8 @@ Uppgiften går ut på att, som uppgiften säger,
 
 Därefter ska jag kunna redovia hur någon annan ska kunna klona detta repository till sin egen dator.
 
-För att kunna klona ska man:  
-* 
+För att kunna klona detta repository ska man:  
+* Först installera Git på datorn
+* Hitta Git CMD (ett mörkt fönster öppnas där det endast står något i stil med "C:\Users\dittnamn"
+* I detta fönster skriver du in kommandot "**git clone**" samt länken till denna repository, som i det här fallet är "**https://github.com/Kiim94/laboration-3.git**"
+* Nu har detta klonats till din dator och du kan börja använda den!
